@@ -1,4 +1,4 @@
-# SQL Data Analytics Project <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c81fbeb2-918b-4eb0-89a8-02457a278197" />
+# SQL Data Analytics Project <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/c81fbeb2-918b-4eb0-89a8-02457a278197" />
 
 Welcome to the SQL Data Analytics Project repository! 🚀
 
