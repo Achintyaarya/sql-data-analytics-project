@@ -1,2 +1,2 @@
-# sql-data-analytics-project
-This repository contains a collection of SQL scripts demonstrating various analytical techniques, such as changes over time, cumulative, performance, data segmentation, part-to-whole analysis.
+# SQl Data Analytics Project
+This repository demonstrates end-to-end SQL analytics techniques used in data analysis and business intelligence. It includes well-structured SQL scripts for data exploration, KPI reporting, trend analysis, cumulative metrics, segmentation, and other analytical use cases. The project emphasizes clean, efficient SQL and practical business insights, making it a useful reference for data analysts, BI professionals, and SQL learners.
