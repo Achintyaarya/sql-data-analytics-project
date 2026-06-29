@@ -1,2 +1,2 @@
-# SQl Data Analytics Project
+# SQL Data Analytics Project
 This repository demonstrates end-to-end SQL analytics techniques used in data analysis and business intelligence. It includes well-structured SQL scripts for data exploration, KPI reporting, trend analysis, cumulative metrics, segmentation, and other analytical use cases. The project emphasizes clean, efficient SQL and practical business insights, making it a useful reference for data analysts, BI professionals, and SQL learners.
